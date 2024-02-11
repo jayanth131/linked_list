@@ -25,7 +25,6 @@ char item_id[LENGTH_OF_ITEM_ID];
 int delete_value = 0;
 
 
-void show_data_as_in_file();
 void sort();
 void show_menu();
 void free_nodes();
